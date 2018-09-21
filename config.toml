@@ -1,4 +1,4 @@
-baseURL = "https://jamieb.com/"
+baseURL = "http://xenodochial-poitras-0e2872.netlify.com"
 languageCode = "en-us"
 title = "Jamie Brummell"
 theme = "hugo-theme-nix"
