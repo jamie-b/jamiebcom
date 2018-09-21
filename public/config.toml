@@ -1,0 +1,13 @@
+baseURL = "https://jamieb.com/"
+languageCode = "en-us"
+title = "Jamie Brummell"
+theme = "nix"
+[params]
+  Name = "Jamie Brummell"
+  HeaderUsername = "jamieb"
+  HeaderHostname = "jamieb.com"
+  About = "I am an information security consultant, based in London, working for an American cybersecurity vendor (Palo Alto Networks). I primarily consult with clients in the financial services & insurance industries."
+  ProfilePicture = "https://pbs.twimg.com/profile_images/1030066755132108800/p5T3WQwJ_400x400.jpg"
+  GithubID = "jamie-b"
+  TwitterID = "jamiebrummell"
+  LinkedInID = "jamiebrummell"
