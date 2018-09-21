@@ -11,3 +11,5 @@ theme = "hugo-theme-nix"
   GithubID = "jamie-b"
   TwitterID = "jamiebrummell"
   LinkedInID = "jamiebrummell"
+  path = themes/hugo-theme-nix
+  url = https://github.com/LordMathis/hugo-theme-nix.git
