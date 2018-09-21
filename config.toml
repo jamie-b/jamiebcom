@@ -12,5 +12,5 @@ theme = "hugo-theme-nix"
   TwitterID = "jamiebrummell"
   LinkedInID = "jamiebrummell"
 [submodule "themes/hugo-theme-nix"]
-  path = themes/hugo-theme-nix
-  url = https://github.com/LordMathis/hugo-theme-nix.git
+  path = "themes/hugo-theme-nix"
+  url = "https://github.com/LordMathis/hugo-theme-nix.git"
