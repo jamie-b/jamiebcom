@@ -1,7 +1,7 @@
 baseURL = "https://jamieb.com/"
 languageCode = "en-us"
 title = "Jamie Brummell"
-theme = "nix"
+theme = "hugo-theme-nix"
 [params]
   Name = "Jamie Brummell"
   HeaderUsername = "jamieb"
