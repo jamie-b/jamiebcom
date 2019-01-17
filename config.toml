@@ -3,15 +3,14 @@ languageCode = "en-us"
 title = "Jamie Brummell"
 theme = "hugo-theme-nix"
 
-[menu]
-  [[menu.header]]
-    name = "posts"
-    weight = 0
-    url = "/posts"
-  [[menu.header]]
-    name = "about"
-    weight = 1
-    url = "/about"
+[[menu.main]]
+    name = "Home" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/" #URL address
+[[menu.main]]
+    name = "Posts"
+    weight = 20
+    url = "/posts/"
 
 [params]
   Name = "Jamie Brummell"
