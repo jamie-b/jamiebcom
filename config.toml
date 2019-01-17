@@ -5,9 +5,9 @@ theme = "hugo-theme-nix"
 
 [menu]
   [[menu.header]]
-    name = "Posts"
-    weight = 20
-    url = "/posts/"
+    name = "Blog"
+    weight = 0
+    url = "/post"
 
 [params]
   Name = "Jamie Brummell"
