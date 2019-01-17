@@ -2,6 +2,17 @@ baseURL = "https://www.jamieb.com"
 languageCode = "en-us"
 title = "Jamie Brummell"
 theme = "hugo-theme-nix"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
 [params]
   Name = "Jamie Brummell"
   HeaderUsername = "jamieb"
