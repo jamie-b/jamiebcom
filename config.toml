@@ -3,11 +3,12 @@ languageCode = "en-us"
 title = "Jamie Brummell"
 theme = "hugo-theme-nix"
 
-[[menu.main]]
+[menu]
+  [[menu.header]]
     name = "Home" #Name in the navigation bar
     weight = 10 #The larger the weight, the more on the right this item will be
     url = "/" #URL address
-[[menu.main]]
+  [[menu.header]]
     name = "Posts"
     weight = 20
     url = "/posts/"
