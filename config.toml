@@ -1,4 +1,4 @@
-baseURL = "https://www.jamieb.com"
+baseURL = "https://jamieb.com"
 languageCode = "en-us"
 title = "Jamie Brummell"
 theme = "hugo-theme-nix"
