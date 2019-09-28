@@ -57,6 +57,7 @@ h1,h2,h3,h4,h5,h6 {
 	padding: 15px;
 	font-size: initial;
 	text-align: center;
+	vertical-align: middle;
 }
 
 .user-profile {
@@ -142,6 +143,7 @@ i {
 
 div p {
 	text-align: center;
+	vertical-align: middle;
 }
 
 td {
