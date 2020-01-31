@@ -6,4 +6,4 @@ draft: false
 
 Inspired by Rob Lee and Mike Pilkington’s excellent ‘Hunt Evil’ guidance, I started exploring how Palo Alto Networks’ Cortex XDR could be configured to do this hunting automatically.
 
-Read more on Medium: https://medium.com/@jamiebrummell/hunting-evil-on-windows-hosts-with-behavioural-indicators-of-compromise-f3540b47c631
+Read more on <a href="https://medium.com/@jamiebrummell/hunting-evil-on-windows-hosts-with-behavioural-indicators-of-compromise-f3540b47c631" target="_blank">Medium</a>
