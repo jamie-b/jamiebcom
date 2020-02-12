@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jamiebrummell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jamieb.com
+  * I am jamiebrummell (https://keybase.io/jamiebrummell) on keybase.
+  * I have a public key ASByr5FNv-ye5iKdJM5M1HDI-RjXzJFlj2qcSgmIHKgJYgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120099c7b49cca3e41ccac62fc17f764682003851e23a3aa163debc7ecf141a68d90a",
+      "host": "keybase.io",
+      "kid": "012072af914dbfec9ee6229d24ce4cd470c8f918d7cc91658f6a9c4a09881ca809620a",
+      "uid": "f8808d19abba855931b17f2958f6da19",
+      "username": "jamiebrummell"
+    },
+    "merkle_root": {
+      "ctime": 1581493242,
+      "hash": "6b942083d00d96a3df388ef23889b6e5a70046ae3d7203f99ed1b8ed5312ecc107250bcd4bfb7d217114d54f476b34e5905becf10b675ad6f48a0feaf405d40e",
+      "hash_meta": "e43e7c9bc514a5a414324078db18ada2dbaa2c334396eaceb05956068ec705a1",
+      "seqno": 14576427
+    },
+    "service": {
+      "entropy": "A3JxZXRtm+oWJ3R3lTBKQH+H",
+      "hostname": "jamieb.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581493294,
+  "expire_in": 504576000,
+  "prev": "1b2d933b3287767c008507700a20e925742a27bfdef4f72d75230c449eb5bd8d",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcq+RTb/snuYinSTOTNRwyPkY18yRZY9qnEoJiByoCWIKp3BheWxvYWTESpcCFsQgGy2TOzKHdnwAhQdwCiDpJXQqJ7/e9PctdSMMRJ61vY3EIM0sA1x3niKDEI436lRlDDnTA79cmeAXKi/V8LkVSh49AgHCo3NpZ8RAL5riFHLHUdn6JfGOZij3mh0K3Cd7aDjQBGt1OvRkIuZisnAAyi4Uz/eeCTMBwALKjDs9RbnN89ZvJ9qlLeGtDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICMDVvIoxypGWal5J/05/iPI1KkNkTVf/ncW5Wr8EIOBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamiebrummell
+
+==================================================================
