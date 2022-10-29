@@ -18,7 +18,6 @@ theme = "hugo-theme-nix"
   TwitterID = "jamiebrummell"
   LinkedInID = "jamiebrummell"
   MediumID = "@jamiebrummell"
-  GithubID = "jamie-b"
 [submodule "themes/hugo-theme-nix"]
   path = "themes/hugo-theme-nix"
   url = "https://github.com/LordMathis/hugo-theme-nix.git"
