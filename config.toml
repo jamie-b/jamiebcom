@@ -17,7 +17,7 @@ theme = "hugo-theme-nix"
   ProfilePicture = "https://miro.medium.com/max/3150/2*Kq9UmDkUjo45SDhCX6XB0Q.jpeg"
   TwitterID = "jamiebrummell"
   LinkedInID = "jamiebrummell"
-  MediumID = "@jamiebrummell"
+  CvURL = "https://socura.co.uk"
 [submodule "themes/hugo-theme-nix"]
   path = "themes/hugo-theme-nix"
   url = "https://github.com/LordMathis/hugo-theme-nix.git"
