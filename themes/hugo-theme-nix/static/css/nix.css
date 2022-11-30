@@ -7,7 +7,8 @@ html {
 }
 
 body {
-	background-color: #fdfdfd;
+	background-color: #000000;
+	color: #ffffff;
 	height: 100%;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1.5em;
@@ -25,26 +26,32 @@ img {
 
 .font-header {
 	font-family: 'Inconsolata', monospace;
+	color: #ffffff;
 }
 
 .font-paragraph {
 	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
 }
 
 nav {
 	font-size: 1.5em;
+	color: #ffffff;
 }
 
 .dropdown-menu li {
 	font-size: 1.5em;
+	color: #ffffff;
 }
 
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Oswald', sans-serif;
+	color: #ffffff;
 }
 
 #user-name {
 	font-size: 5em;
+	color: #ffffff;
 }
 
 .user-description {
@@ -57,10 +64,12 @@ h1,h2,h3,h4,h5,h6 {
 	font-size: initial;
 	text-align: center;
 	vertical-align: middle;
+	color: #ffffff;
 }
 
 .user-profile {
 	padding: 0;
+	color: #ffffff;
 }
 
 .user-picture {
@@ -77,10 +86,12 @@ i {
 
 .post-link {
 	float: left;
+	color: #ffffff;
 }
 
 .post-date {
 	float: right;
+	color: #ffffff;
 }
 
 .post-header {
