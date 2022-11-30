@@ -95,7 +95,8 @@ i {
 }
 
 .post-header {
-	background-color: #F5F5F5;
+	background-color: #000000;
+	color: #ffffff;
 	overflow: hidden;
 	padding: 0 5px 0 5px;
 }
@@ -135,7 +136,8 @@ i {
 }
 
 .footer {
-	background-color: #F5F5F5;
+	background-color: #000000;
+	color: #ffffff;
 	display: block;
 	width: 100%;
 	padding: 10px;
