@@ -15,7 +15,7 @@ theme = "hugo-theme-nix"
   HeaderHostname = "jamieb.com"
   About = "|------ Founder and CTO at Socura ------|"
   ProfilePicture = "https://media.licdn.com/dms/image/D4E03AQFFNPbFjakFNQ/profile-displayphoto-shrink_400_400/0/1670532789796?e=2147483647&v=beta&t=OVkNnYiLyFArfV-LjzxR4GIqCJ3cgRRotMzChpd1oVI"
-  TwitterID = "jamiebrummell"
+  MediumID = "jamiebrummell"
   LinkedInID = "jamiebrummell"
   CvURL = "https://socura.co.uk"
 [submodule "themes/hugo-theme-nix"]
